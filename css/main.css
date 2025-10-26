@@ -1,0 +1,19 @@
+@import url("atoms/texto.css");
+@import url("atoms/imagem.css");
+@import url("molecules/card-pokemon.css");
+@import url("organisms/lista-pokemons.css");
+@import url("organisms/modal-pokemon.css");
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+  text-align: center;
+}
+
+h1 {
+  color: #e3350d;
+}
+
+form {
+  margin-bottom: 20px;
+}

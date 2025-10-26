@@ -1,0 +1,5 @@
+.pokemon-nome {
+  font-weight: bold;
+  display: block;
+  text-transform: capitalize;
+}
